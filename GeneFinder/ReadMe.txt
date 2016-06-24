@@ -1,0 +1,2 @@
+GeneFinder.pl:
+_ A simple program that read in a DNA sequence and generate the sequence of the complemetary strand. Then find the longest open reading frame of the provided DNA and then transcribe it into mRNA. Finally, translate the mRNA into amino acid sequence using a hashtable as a looking table. 
